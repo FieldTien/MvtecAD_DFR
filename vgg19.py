@@ -1,5 +1,6 @@
 ########################################################################################################################
 ###########This scripy is following from https://github.com/YoungGod/DFR/blob/master/DFR-source/vgg19.py################
+###########Delete the self.pad = nn.ReflectionPad2d(padding=1) terms ###################################################
 ########################################################################################################################
 import torchvision.models as models
 import torch
