@@ -1,3 +1,6 @@
+########################################################################################################################
+###########This scripy is following from https://github.com/YoungGod/DFR/blob/master/DFR-source/vgg19.py################
+########################################################################################################################
 import torchvision.models as models
 import torch
 import torch.nn as nn
